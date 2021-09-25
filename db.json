@@ -1,0 +1,41 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Big Mac",
+            "restaurant": "mcdonalds",
+            "ingredients": ["beef", "ham", "cheese", "salad"],
+            "addresses": [
+                {
+                    "addressid": "0",
+                    "number": "75",
+                    "line1": "Venn Street",
+                    "Post code": "SW4 0BD",
+                    "Country": "UK"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Fish Fillet",
+            "restaurant": "Leon",
+            "ingredients": ["Fish", "mayo", "cheese", "salad"],
+            "addresses": [
+                {
+                    "addressid": "1",
+                    "number": "90",
+                    "line1": "Tib Street",
+                    "Post code": "N16 8AR",
+                    "Country" : "UK"
+                },
+                {
+                    "addressid": "1.1",
+                    "number": "100",
+                    "line1": "Denis Street",
+                    "Post code": "N20 9LR",
+                    "Country" : "UK"
+                }
+            ]
+        }
+    ]
+}
